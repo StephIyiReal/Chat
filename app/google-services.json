@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602512373539",
+    "firebase_url": "https://chatgads-7587c.firebaseio.com",
+    "project_id": "chatgads-7587c",
+    "storage_bucket": "chatgads-7587c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602512373539:android:998c48ae4007f78a27fe96",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602512373539-oc10scbnfgpuenp2cj3uub8ftath1h2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZ_rgi3MQEiyfVON8ZjrDUgwOZOFQokE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602512373539-oc10scbnfgpuenp2cj3uub8ftath1h2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
